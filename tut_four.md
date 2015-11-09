@@ -1,0 +1,1 @@
+Now we will just add some basic css to make the grid system aesthetically understandble. We are basically giving the body font a white color, aligning it center and increasing the size. We are giving each cell a height of 180px and then setting the color class that corresponds with that cell a background color.

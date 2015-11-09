@@ -1,0 +1,44 @@
+body{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+.col-lg-4 {
+	height: 180px;
+}
+
+.col-md-4 {
+	height: 180px;
+}	
+
+.col-sm-4 {
+	height: 180px;
+}
+
+.col-xs-4 {
+	height: 180px;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.green {
+	background-color: green;
+}
+
+.red {
+	background-color: red;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.black {
+	background-color: black;
+}
+
+.purple {
+	background-color: purple;
+}
